@@ -38,7 +38,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/adelina-pie-shop.git
+git clone https://github.com/codershrikant/adelina-pie-shop.git
 Open the index.html file in your preferred web browser.
 
 Dependencies
